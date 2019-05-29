@@ -14,4 +14,4 @@
 
 ## 02 Developing
 
-- [Developing](docs/02_developming/00_developing.md)
+- [Developing](docs/02_developing/00_developing.md)
